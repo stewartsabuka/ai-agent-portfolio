@@ -109,3 +109,6 @@ cython_debug/
 
 # Environment variables file
 .env
+
+projects/daily-assistant/backend/credentials.json
+projects/daily-assistant/backend/token.json
